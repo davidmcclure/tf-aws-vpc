@@ -1,5 +1,5 @@
 variable "name" {
-  default = "spark"
+  default = "default"
 }
 
 variable "aws_region" {
